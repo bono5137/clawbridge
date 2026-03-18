@@ -3,7 +3,7 @@
 A robust, enterprise-grade bridge system designed to connect **OpenClaw** (and other personal AI assistants) with agentic LLM interfaces like **Claude Code** and **Gemini CLI**.
 
 This bridge provides a managed execution environment that ensures process isolation, security enforcement, and reliable state tracking for long-running AI tasks.
-[中文说明](https://github.com/bono5137/clawbridge/blob/main/README-zh.md)
+[中文说明](https://github.com/git-tramp/clawbridge/blob/main/README-zh.md)
 
 ## Key Features
 
@@ -37,7 +37,7 @@ This bridge provides a managed execution environment that ensures process isolat
 ### Setup
 1. Clone the repository to your OpenClaw workspace:
    ```bash
-   git clone https://github.com/bono5137/clawbridge.git
+   git clone https://github.com/git-tramp/clawbridge.git
    cd clawbridge
    ```
 2. Create and initialize the virtual environment:
