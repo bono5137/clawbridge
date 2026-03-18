@@ -35,8 +35,8 @@ This bridge provides a managed execution environment that ensures process isolat
 ### Setup
 1. Clone the repository to your OpenClaw workspace:
    ```bash
-   git clone https://github.com/your-username/openclaw-bridge.git
-   cd openclaw-bridge
+   git clone https://github.com/bono5137/clawbridge.git
+   cd clawbridge
    ```
 2. Create and initialize the virtual environment:
    ```bash
