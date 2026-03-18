@@ -36,7 +36,7 @@
 ### 设置
 1. 克隆仓库到你的 OpenClaw 工作区：
    ```bash
-   git clone https://github.com/bono5137/clawbridge.git
+   git clone https://github.com/git-tramp/clawbridge.git
    cd clawbridge
    ```
 2. 创建并初始化虚拟环境：
